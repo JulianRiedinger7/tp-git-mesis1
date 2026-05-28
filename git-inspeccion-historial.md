@@ -8,6 +8,10 @@ Ademas, tambien especifica donde nos encontramos parados actualmente, es decir d
 
 Podemos usar el flag **--oneline** que nos muestra unicamente cada commit con un hash de 7 digitos y el comentario.
 
+En relación a esto último, a **git log --oneline** se puede agregar el flag **--graph** para poder obtener un gráfico (árbol) de los commits realizdos y sus ramas. 
+
+De igual modo, el flag **--numstat** permite visualizar los archivos involucrados en cada commit. 
+
 ## **git reflog**
 
 Este comando nos muestra cuando el **HEAD** cambia, por lo que observamos informacion no solo de commits, sino tambien de otras acciones como **checkouts**, **merges**, **conflicts**, que no son necesariamente escribir codigo.
