@@ -17,6 +17,10 @@ Por ejemplo:
 
 **docs/xx-CZ** -> Para agregar documentacion tecnica
 
+## [Estadisticas](./estadisticas.md)
+
+## [Archivo IA](./IA.md)
+
 ## Indice de Comandos explicados:
 
 ### [Comando git init](./git-gitInit.md)
