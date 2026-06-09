@@ -19,6 +19,12 @@ Por ejemplo:
 
 ## Indice de Comandos explicados:
 
-### [Inspeccion del historial GIT](./git-inspeccion-historial.md)
+### [Comando git init](./git-gitInit.md)
+
+### [Comando git add](./git-gitAdd.md)
+
+### [Comando git commit](./git-gitCommit.md)
 
 ### [Modificacion del historial GIT](./git-modificacion-historial.md)
+
+### [Inspeccion del historial GIT](./git-inspeccion-historial.md)
