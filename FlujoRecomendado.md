@@ -1,0 +1,14 @@
+A continuación se describe el flujo de trabajo recomendado en Git y GitHub:
+
+En primer lugar, debemos referenciar un repositorio local con uno remoto usando el comando **git remote add origin < URL>** 
+
+Seguidamente, creamos una rama en la cual trabajaremos preferentemente  de manera local, o simplemente trabajamos en una ya existente.
+
+Una vez que hayamos terminado de trabajar en esa rama, creamos una copia de la misma en el repositorio remoto con **git push -u origin <nombre de la rama>**. Para esta acción, dependiendo de la configuración de GitHub, muchas veces se solicita el nombre de usuario de GitHub y contraseña. Generalmente, la contraseña es un token generado en GitHub. Para generar un token se debe seguir las siguientes instrucciones: 
+  
+  Ir a _Settings_ --> _Developer settings_ --> _Personal access tokens_ --> _Tokens (classic)_ --> _Generate new token_ (solicita conntraseña) --> _Generate token_
+
+Luego, hacemos Pull Request para subir los cambios de una rama (en la cual se le aplicaron los cambios) a la rama principal (main): rama1 --> main. Es recomendable en cada PR designar revisores con la opción _Reviewers_.  
+
+Existe la opción de inicializar una conversación dentro de cada PR donde permite una comunicación entre quién realiza el PR y los revisores. Si existieran conflictos en el PR se solcicita su corrección. 
+Dentro de un repositorio podemos enumerar y describir las tareas con las pestañas _Issues_. Cuando creamos un Issue nos da una referencia (ejemplo: #2), la cual permite likear una rama a ese Issue en particular. 
