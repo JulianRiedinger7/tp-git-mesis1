@@ -32,3 +32,6 @@ Por ejemplo:
 ### [Modificacion del historial GIT](./git-modificacion-historial.md)
 
 ### [Inspeccion del historial GIT](./git-inspeccion-historial.md)
+
+### [Flujo de trabajo recomendado](./FlujoRecomendado.md)
+
