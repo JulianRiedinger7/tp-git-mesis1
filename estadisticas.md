@@ -5,11 +5,16 @@
 ![Cantidad commits](./assets/cantidad-commits.png)
 En la captura se observa del lado izquierdo la cantidad total de commits en el repositorio, y del lado derecho la cantidad de commits por integrante.
 
-## Cantidad total de Merges realizados:
+## Cantidad total de Merges y conflictos realizados:
 
-## Cantidad de conflictos producidos:
+![Cantidad Merges](./assets/cantidad-merges.png)
+En la captura se puede observar que el comando **git log --oneline --merges** arroja un total de 11 merges en el repositorio.
+De estos 11 merges, 5 corresponden a conflictos resueltos (aquellos que no poseen **Merge pull request...**).
 
 ## Cantidad de ramas existentes:
+
+![Cantidad Ramas](./assets/cantidad-ramas.png)  
+En la captura se observan un total de 10 ramas en el repositorio.
 
 ## Commit con la mayor cantidad de archivos modificados:
 
