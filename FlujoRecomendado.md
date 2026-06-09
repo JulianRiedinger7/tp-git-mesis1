@@ -2,7 +2,7 @@ A continuación se describe el flujo de trabajo recomendado en Git y GitHub:
 
 En primer lugar, debemos referenciar un repositorio local con uno remoto usando el comando **git remote add origin < URL>** 
 
-Seguidamente, creamos una rama en la cual trabajaremos preferentemente  de manera local, o simplemente trabajamos en una ya existente (link).
+Seguidamente, creamos una rama en la cual trabajaremos preferentemente  de manera local, o simplemente trabajamos en una ya existente.
 
 Una vez que hayamos terminado de trabajar en esa rama, creamos una copia de la misma en el repositorio remoto con **git push -u origin <nombre de la rama>**. Para esta acción, dependiendo de la configuración de GitHub, muchas veces se solicita el nombre de usuario de GitHub y contraseña. Generalmente, la contraseña es un token generado en GitHub. Para generar un token se debe seguir las siguientes instrucciones: 
   
