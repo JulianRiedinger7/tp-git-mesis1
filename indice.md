@@ -17,6 +17,10 @@ Por ejemplo:
 
 **docs/xx-CZ** -> Para agregar documentacion tecnica
 
+## [Estadisticas](./estadisticas.md)
+
+## [Archivo IA](./IA.md)
+
 ## Indice de Comandos explicados:
 
 ### [Inspeccion del historial GIT](./git-inspeccion-historial.md)
@@ -26,5 +30,3 @@ Por ejemplo:
 ### [Comando git commit] (./git-gitCommit.md)
 
 ### [Comando git add] (./git-gitAdd.md)
-
-
