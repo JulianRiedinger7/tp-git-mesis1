@@ -18,6 +18,9 @@ En la captura se observan un total de 10 ramas en el repositorio.
 
 ## Commit con la mayor cantidad de archivos modificados:
 
+![Commit con mas modificaciones](./assets/commit-mas-modificaciones.png)  
+En la captura se puede observar que el commit con mayor cantidad de modificaciones es el de hash **8e197cf**, el cual agrega todos los cambios de main a la rama, modificando 7 archivos.
+
 ## Captura de conflicto previo a su resolucion:
 
 ![Conflicto rebase](./assets/conflicto-rebase.png)
