@@ -1,1 +1,0 @@
-Genere un conflicto aquí
