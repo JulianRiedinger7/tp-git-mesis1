@@ -2,6 +2,9 @@
 
 ## Mayor cantidad de Commits:
 
+![Cantidad commits](./assets/cantidad-commits.png)
+En la captura se observa del lado izquierdo la cantidad total de commits en el repositorio, y del lado derecho la cantidad de commits por integrante.
+
 ## Cantidad total de Merges realizados:
 
 ## Cantidad de conflictos producidos:
